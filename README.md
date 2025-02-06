@@ -40,3 +40,5 @@ There are two modes for running the code:
 
 ## License
 This project is licensed under GPL version2
+
+![image](https://github.com/user-attachments/assets/2db41911-c1c2-4c46-890e-0e00d4264575)
