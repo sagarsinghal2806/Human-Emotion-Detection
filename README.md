@@ -39,4 +39,4 @@ There are two modes for running the code:
    ```
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under GPL version2
