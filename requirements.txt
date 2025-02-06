@@ -1,1 +1,8 @@
 pip freeze > requirements.txt
+
+
+numpy
+tensorflow
+opencv-python
+matplotlib
+
